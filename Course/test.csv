@@ -1,0 +1,5 @@
+id;name;level;dependencies ;priority
+0;С++;0;;0
+1;Java;1;C++;0
+2;Rust;2;Java/C++;2
+3;Go;3;Rust, C++;0
